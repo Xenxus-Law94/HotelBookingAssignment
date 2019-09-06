@@ -1,0 +1,26 @@
+PODS:
+  - FittedSheets (1.4.4)
+  - IQKeyboardManagerSwift (6.4.1)
+  - SDWebImage (5.1.0):
+    - SDWebImage/Core (= 5.1.0)
+  - SDWebImage/Core (5.1.0)
+
+DEPENDENCIES:
+  - FittedSheets
+  - IQKeyboardManagerSwift
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FittedSheets
+    - IQKeyboardManagerSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FittedSheets: f56b96c7bd81585d9a183c2a06abe176fa0b55db
+  IQKeyboardManagerSwift: d2df660d0b8d64a15cb2537c9ff303213fa515b2
+  SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
+
+PODFILE CHECKSUM: 71af423ccbcca5d0a9782b3375114c9c39efacc7
+
+COCOAPODS: 1.7.5
